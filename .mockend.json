@@ -9,5 +9,11 @@
     "Comment": {
         "body": "string",
         "post": "Post"
+    },
+    "Products": {
+        "name": "string",
+        "description": "string",
+        "price": "int",
+        "seller": "string"
     }
 }
